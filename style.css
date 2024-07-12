@@ -1,0 +1,217 @@
+*{margin: 0px;
+padding: 0px;}
+
+body{background-color: #FFF8DB;}
+
+#navbar{width: 100%;
+height: 60px;
+font-family: "Ga Maamli", sans-serif;
+display: flex;
+background-color: lightgray ;
+justify-content: space-evenly;}
+
+.search{margin-top: 1.50%;
+margin-left: 2%;}
+
+.search input{
+    width: 300px;}
+
+.login{margin-top: 1.50%;
+    margin-left: 2%;}
+
+.loginpage{text-decoration: none;
+color: black;}
+
+.loginpage:hover{color: blue;}
+
+.cart{margin-top: 1.50%;
+    margin-left: 2%;}    
+
+.cart:hover{color: blue;}      
+
+.notification{margin-top: 1.50%;
+    margin-left: 2%;}
+ 
+.notification:hover{color: blue;}   
+    
+.help{margin-top: 1.50%;
+    margin-left: 2%;}   
+    
+.help:hover{color: blue;}  
+
+#categories{height: 100px;
+    width: 100%;
+    font-family: "Ga Maamli", sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: lightgray;}
+
+.grocery{text-decoration: none;
+color: black;}
+
+.mobile{text-decoration: none;
+color: black;}
+
+.fashion{text-decoration: none;
+color: black;}
+
+.electronic{text-decoration: none;
+    color: black;}
+
+.furniture{text-decoration: none;
+    color: black;}   
+
+.fitness{text-decoration: none;
+    color: black;}   
+    
+.book{text-decoration: none;
+    color: black;}      
+
+.shoe{text-decoration: none;
+    color: black;}   
+
+strong{display: grid;
+justify-content: center;}  
+    
+    
+ #groceries-section{width: 100%;
+    display: grid;
+    grid-gap: 30px;
+    background-color: lightgray;
+    justify-content: center;
+    align-content: center;
+    grid-template-rows:42.5% 42.5% ;
+    grid-template-columns: 22% 22% 22% 22%;}
+
+.groceries-section{padding: 5%;}     
+
+.groceries-section:hover{transform: scale(1.1);}
+
+
+#mobiles-section{width: 100%;
+    display: grid;
+    grid-gap: 30px;
+    background-color: lightgray;
+    justify-content: center;
+    align-content: center;
+    grid-template-rows:42.5% 42.5% ;
+    grid-template-columns: 22% 22% 22% 22%;}
+
+.mobiles-section{padding: 5%;}  
+
+.mobiles-section:hover{transform: scale(1.1);}
+
+
+#shoes-section{width: 100%;
+    display: grid;
+    grid-gap: 30px;
+    background-color: lightgray;
+    justify-content: center;
+    align-content: center;
+    grid-template-rows:42.5% 42.5% ;
+    grid-template-columns: 22% 22% 22% 22%;}
+
+.shoes-section{padding: 5%;}  
+
+.shoes-section:hover{transform: scale(1.1);}
+
+
+
+
+#fashions-section{width: 100%;
+    display: grid;
+    grid-gap: 30px;
+    background-color: lightgray;
+    justify-content: center;
+    align-content: center;
+    grid-template-rows:42.5% 42.5% ;
+    grid-template-columns: 22% 22% 22% 22%;}
+
+.fashions-section{padding: 5%;}  
+
+.fashions-section:hover{transform: scale(1.1);}
+
+
+#electronics-section{width: 100%;
+    display: grid;
+    grid-gap: 30px;
+    background-color: lightgray;
+    justify-content: center;
+    align-content: center;
+    grid-template-rows:42.5% 42.5% ;
+    grid-template-columns: 22% 22% 22% 22%;}
+
+.electronics-section{padding: 5%;}   
+
+.electronics-section:hover{transform: scale(1.1);}
+
+
+#furnitures-section{width: 100%;
+    display: grid;
+    grid-gap: 30px;
+    background-color: lightgray;
+    justify-content: center;
+    align-content: center;
+    grid-template-rows:42.5% 42.5% ;
+    grid-template-columns: 22% 22% 22% 22%;}
+
+.furnitures-section{padding: 5%;} 
+
+.furnitures-section:hover{transform: scale(1.1);}
+
+
+#fitnesses-section{width: 100%;
+    display: grid;
+    grid-gap: 30px;
+    background-color: lightgray;
+    justify-content: center;
+    align-content: center;
+    grid-template-rows:42.5% 42.5% ;
+    grid-template-columns: 22% 22% 22% 22%;}
+
+.fitnesses-section{padding: 5%;}  
+
+.fitnesses-section:hover{transform: scale(1.1);}
+
+
+#books-section{width: 100%;
+    display: grid;
+    grid-gap: 30px;
+    background-color: lightgray;
+    justify-content: center;
+    align-content: center;
+    grid-template-rows:42.5% 42.5% ;
+    grid-template-columns: 22% 22% 22% 22%;}
+
+.books-section{padding: 5%;}    
+
+.books-section:hover{transform: scale(1.1);}
+
+
+
+#footer{background-color: rgb(51, 51, 51);
+    display: flex;
+    justify-content: space-evenly;
+width: 100%;
+padding: 1% 0%;
+height: 20px;}
+
+.a-1{text-decoration: none;
+color: white;}
+
+.a-1:hover{background-color:#009688;
+color: black;}
+
+.a-2{text-decoration: none;
+    color: white;}
+
+.a-2:hover{background-color:#009688;
+color: black;}
+
+.a-3{text-decoration: none;
+        color: white;}
+
+.a-3:hover{background-color:#009688;
+color: black;}        
+
+.copyright{color: white;}        
